@@ -1,0 +1,11 @@
+{
+  "loginUser":{
+    "email":"spirit@gmail.com",
+    "password": "spirirt54321"
+  },
+  "regisUser":{
+    "name":"Toko Jaya Abadi",
+    "email":"jaya32@gmail.com",
+    "password":"jaya1234"
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "dataProduk1":{
+      "name":"Oreo",
+      "description": "Makanan Coklat",
+      "purchasePrice":"15000",
+      "sellingPrice":"18000",
+      "stok":"20"
+    },
+    "dataProduk2":{
+      "name":"Nasi",
+      "description": "Makanan Pokok",
+      "purchasePrice":"20000",
+      "sellingPrice":"15000",
+      "stok":"10"
+    },
+    "dataProduk3":{
+      "name":"Chitato",
+      "description": "Makanan Snack",
+      "purchasePrice":"20000",
+      "sellingPrice":"25000",
+      "stok":"0"
+    },
+    "dataProdukUpd1":{
+      "name":"Mie Rendang",
+      "description": "Mie Instan",
+      "purchasePrice":"2000",
+      "sellingPrice":"3000",
+      "stok":"50"
+    },
+    "dataProdukUpd2":{
+      "name":"Fanta",
+      "description": "Minuman Soda",
+      "purchasePrice":"17000",
+      "sellingPrice":"20000",
+      "stok":"30"
+    }
+  }
+  

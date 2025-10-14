@@ -1,0 +1,19 @@
+{
+    "dataKategori1":{
+      "name":"Makanan Ringan",
+      "description": "Berbagai Macam Snack"
+    },
+    "dataKategori2":{
+      "name":"Makanan Berat",
+      "description": "Berbagai Macam makanan berat"
+    },
+    "dataKategoriUpd1":{
+      "name":"Makanan Instan",
+      "description":"Bermacam makanan instan"
+    },
+    "dataKategoriUpd2":{
+      "name":"Minuman Segar",
+      "description":"Bermacam minuman soda"
+    }
+  }
+  

@@ -1,0 +1,27 @@
+{
+    "dataCust1":{
+      "name":"Andini",
+      "phone": "08123789",
+      "address":"Jl. Mawar",
+      "description":"Member"
+    },
+    "dataCust2":{
+      "name":"Faruq",
+      "phone": "+62 8123789",
+      "address":"Jl. Melati",
+      "description":"Non-Member"
+    },
+    "dataCustUpd1":{
+      "name":"Hilmi",
+      "phone": "08123789",
+      "address":"Jl. Mekarsari",
+      "description":"Member"
+    },
+    "dataCustUpd2":{
+      "name":"Aiko",
+      "phone": "081-237-809",
+      "address":"Jl. Arjuna",
+      "description":"Non-Member"
+    }
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "dataCash1":{
+      "name":"Gofar",
+      "email": "gofar@mail.com",
+      "password":"gfr1234"
+    },
+    "dataCash2":{
+      "name":"Fahrul",
+      "email": "fahru45@mail.com",
+      "password":"fhr987"
+    },
+    "dataCashUpd1":{
+      "name":"Valdi",
+      "email": "valdi99@mail.com",
+      "password":"vld0987"
+    },
+    "dataCashUpd2":{
+      "name":"Aiko",
+      "email": "aik87@mail.com",
+      "password":"ak476"
+    }
+  }
+  
