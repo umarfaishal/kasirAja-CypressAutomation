@@ -19,6 +19,10 @@ class registerPages{
         cy.get('button[type="submit"]').click();
     }
 
+    clickEyeClose(){
+        cy.get('button svg[data-icon="eye-slash"]').click();
+    }
+
     getErrorMessage(){
         return cy.get('.chakra-alert');
     }

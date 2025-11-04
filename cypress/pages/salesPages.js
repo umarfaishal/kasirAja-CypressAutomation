@@ -12,7 +12,8 @@ class salesPages{
     }
 
     selectProduct(productName){
-        cy.contains(productName, {timeout: 5000})
+        cy.contains(productName, {timeout: 8000})
+        .scrollIntoView({easing: 'linear', duration: 500})
         .should('be.visible')
         .click({force: true});
     }
@@ -85,6 +86,10 @@ class salesPages{
 
     getAlert(){
         return cy.get('.chakra-alert');
+    }
+
+    getSuccessAlert(){
+        return cy.get('.chakra-alert').contains('success');
     }
 }
 
