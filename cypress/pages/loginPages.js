@@ -15,6 +15,10 @@ class loginPages{
         cy.get('button[type="submit"]').click();
     }
 
+    clickEyeClose(){
+        cy.get('button svg[data-icon="eye-slash"]').click();
+    }
+
     getErrorMesage(){
         return cy.get('.chakra-alert');
     }
